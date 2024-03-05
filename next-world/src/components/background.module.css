@@ -1,0 +1,39 @@
+.article {
+    /* height: 100%; */
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    background-size: cover;
+    /* display: grid; */
+    place-items: right;
+    ;
+}
+
+.header {
+    font-size: 30px;
+    color: rgb(131, 81, 81);
+    text-align: right;
+    font-family: serif;
+}
+.body {
+    font-size: 20px;
+    color: rgb(8, 3, 3);
+    text-align: right;
+    font-family: serif;
+}
+.button {
+    text-align: right;
+}
+.bussinessTab{
+    background-color: #800000;
+}
+.bussinessButtons{
+    margin:20px;
+    width:10%;
+    background-color: white;
+    color: black;
+
+}
+.footer{
+    background-color: #800000;
+    color: white;
+}
